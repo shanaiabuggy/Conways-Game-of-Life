@@ -3,11 +3,8 @@ This is my newly implemented GUI of Conway's Game of Life created using QT Creat
 
 Interactions:
 -The 'Step' button allows you to advance the game 1 turn.
-
 -The 'Play" button with advance the game automatically, advancing 1 turn every x seconds, where x is determined by the speed chosen via the speed slider.
-
 -The 'Pause' button stops the game from playing automatially.
-
 -Press the 'Reset' button to reset the game at any time.
 
 Note:
